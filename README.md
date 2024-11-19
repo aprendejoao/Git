@@ -3,7 +3,7 @@
 
  Repositorio criado com a finalidade de aprendizado.
 
- Terceira alteração diretamente do site.
+ **Terceira** alteração diretamente do *site*.
 
  Quarta alteração
  
